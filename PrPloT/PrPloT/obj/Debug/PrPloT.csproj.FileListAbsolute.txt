@@ -1,0 +1,6 @@
+c:\users\hp\documents\visual studio 2012\Projects\PrPloT\PrPloT\bin\Debug\PrPloT.exe.config
+c:\users\hp\documents\visual studio 2012\Projects\PrPloT\PrPloT\bin\Debug\PrPloT.exe
+c:\users\hp\documents\visual studio 2012\Projects\PrPloT\PrPloT\bin\Debug\PrPloT.pdb
+c:\users\hp\documents\visual studio 2012\Projects\PrPloT\PrPloT\obj\Debug\PrPloT.exe
+c:\users\hp\documents\visual studio 2012\Projects\PrPloT\PrPloT\obj\Debug\PrPloT.pdb
+c:\users\hp\documents\visual studio 2012\Projects\PrPloT\PrPloT\obj\Debug\PrPloT.csprojResolveAssemblyReference.cache
